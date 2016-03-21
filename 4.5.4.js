@@ -4,7 +4,7 @@ class Food {
     this.edible = true;
   }
   formal() {
-    return this.label.toUpperCase() + " ESQ.";
+    return this.label.toUpperCase() + ", ESQ.";
   }
 }
 
