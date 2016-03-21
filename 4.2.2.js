@@ -8,4 +8,4 @@ var alphaSteps = steps.sort();
 console.log(alphaSteps); //["brainstorm", "experiment", "narrow", "propose", "test"]
 console.log(steps); //["brainstorm", "narrow", "experiment", "test", "propose"]
 
-http://jsbin.com/ciqayokere/edit?js,console
+// http://jsbin.com/ciqayokere/edit?js,console
