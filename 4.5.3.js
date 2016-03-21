@@ -5,11 +5,11 @@ var Food = function(name) {
 };
 
 // Food.prototype.formal = function() {
-//   return label.toUpperCase() + " ESQ.";
+//   return label.toUpperCase() + ", ESQ.";
 // };
 
 Food.prototype.formal = function() {
-  return this.label.toUpperCase() + " ESQ.";
+  return this.label.toUpperCase() + ", ESQ.";
 };
 
 var apple = new Food("apple");
