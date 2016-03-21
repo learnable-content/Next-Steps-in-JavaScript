@@ -13,4 +13,4 @@ var match = vowelMatch.exec(input);
 console.log(match); //["e"]
 console.log(vowelMatch.lastIndex); //9
 
-http://jsbin.com/bifefehaqa/edit?js,console
+// http://jsbin.com/bifefehaqa/edit?js,console
