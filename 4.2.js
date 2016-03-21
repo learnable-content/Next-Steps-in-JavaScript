@@ -19,4 +19,4 @@ for(var counter = 0; counter < steps.length; counter++) {
 //"Then we test"
 //"Finally we propose"
 
-http://jsbin.com/xakudetemo/edit?js,console
+// http://jsbin.com/xakudetemo/edit?js,console
