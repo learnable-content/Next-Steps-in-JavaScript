@@ -9,4 +9,4 @@ steps.length = 3;
 console.log(steps[4]); //undefined
 console.log(steps); //["brainstorm", "narrow", "prototype"]
 
-http://jsbin.com/lezadeguci/edit?js,console
+// http://jsbin.com/lezadeguci/edit?js,console
