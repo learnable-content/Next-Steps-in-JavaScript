@@ -6,7 +6,7 @@ var addThem = function(first, second, count, source) {
 };
 
 var total = numbers.reduce(addThem);
-console.log(total); //52
+console.log(total); //32
 // 0
 // 1
 // 2
