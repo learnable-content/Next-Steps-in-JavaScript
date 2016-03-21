@@ -12,4 +12,4 @@ while (match = vowelMatch.exec(input)) {
 //"i was found at 18"
 //"e was found at 21"
 
-http://jsbin.com/mayegabofe/edit?js,console
+// http://jsbin.com/mayegabofe/edit?js,console
