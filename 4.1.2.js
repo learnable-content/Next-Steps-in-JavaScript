@@ -16,4 +16,4 @@ var foodsObject = {Apples:3, Pears:2, Tomatoes:5};
 console.log(fruitsObject == foodsObject); //false
 console.log(fruitsObject === foodsObject); //false
 
-http://jsbin.com/fisicocemu/edit?js,console
+// http://jsbin.com/fisicocemu/edit?js,console
