@@ -16,4 +16,4 @@ toy2.color = "blue";
 console.log(toy2.color); // "blue"
 console.log(toy1.color); // "blue"
 
-http://jsbin.com/kuhaqixupa/edit?js,console
+// http://jsbin.com/kuhaqixupa/edit?js,console
