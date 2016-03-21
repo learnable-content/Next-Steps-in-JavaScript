@@ -6,6 +6,6 @@ console.log(steps); //["brainstorm", "narrow", "experiment", "test", "propose"]
 
 var alphaSteps = steps.sort();
 console.log(alphaSteps); //["brainstorm", "experiment", "narrow", "propose", "test"]
-console.log(steps); //["brainstorm", "narrow", "experiment", "test", "propose"]
+console.log(steps); //["brainstorm", "experiment", "narrow", "propose", "test"]
 
 // http://jsbin.com/ciqayokere/edit?js,console
