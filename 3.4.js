@@ -18,5 +18,7 @@ console.log(redTracker.getAction);
 //function() { return tracking[choice]; }
 console.log(blueTracker.getAction);
 //function() { return tracking[choice]; }
-
-// http://jsbin.com/dukotegimi/edit?js,console
+console.log(redTrackter.getAction == blueTracker.getAction);
+//false
+console.log(redTrackter.getAction === blueTracker.getAction);
+//false
