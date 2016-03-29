@@ -1,5 +1,5 @@
 var vanilla = {"color":"neutral", "size":"medium"};
-for (item in vanilla) {
+for (var item in vanilla) {
   console.log("vanilla." + item + " = " + vanilla[item]);
 }
 // "vanilla.color = neutral"
@@ -20,5 +20,3 @@ for (item in vanilla) {
 }
 // "vanilla.color = neutral"
 // "vanilla.size = medium"
-
-// http://jsbin.com/jakihukazu/edit?js,console
