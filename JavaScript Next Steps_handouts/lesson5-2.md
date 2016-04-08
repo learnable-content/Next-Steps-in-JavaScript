@@ -1,4 +1,4 @@
-![](JavaScript Next Steps_handouts/headings/5.2.png)
+![](headings/5.2.png)
 
 # Iterating Arrays with ForEach
 
