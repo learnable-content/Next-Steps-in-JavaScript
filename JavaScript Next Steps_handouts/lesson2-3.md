@@ -1,4 +1,4 @@
-![](JavaScript Next Steps_handouts/headings/2.3.png)
+![](headings/2.3.png)
 
 # String Type
 
