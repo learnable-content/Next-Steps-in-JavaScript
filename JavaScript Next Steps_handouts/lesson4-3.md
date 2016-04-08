@@ -1,4 +1,4 @@
-![](JavaScript Next Steps_handouts/headings/4.3.png)
+![](headings/4.3.png)
 
 # Keyed Data
 
