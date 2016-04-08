@@ -1,4 +1,4 @@
-![](JavaScript Next Steps_handouts/headings/5.4.png)
+![](headings/5.4.png)
 
 # What Is Reduce
 
