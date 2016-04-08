@@ -1,4 +1,4 @@
-![](JavaScript Next Steps_handouts/headings/3.1.png)
+![](headings/3.1.png)
 
 # How Scope Works in Functions
 
