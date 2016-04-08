@@ -1,4 +1,4 @@
-![](JavaScript Next Steps_handouts/headings/2.1.png)
+![](/JavaScript Next Steps_handouts/headings/2.1.png)
 
 # Regular Expressions
 
