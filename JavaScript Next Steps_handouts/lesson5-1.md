@@ -1,4 +1,4 @@
-![](JavaScript Next Steps_handouts/headings/5.1.png)
+![](headings/5.1.png)
 
 # Lesson Introduction
 
